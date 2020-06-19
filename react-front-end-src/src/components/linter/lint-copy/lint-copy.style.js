@@ -1,3 +1,3 @@
 export const copyStyle = {
-    marginTop: '4rem'
-}
+  marginTop: "4rem",
+};

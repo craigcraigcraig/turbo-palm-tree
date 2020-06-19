@@ -1,2 +1,2 @@
-export * from './header'
-export * from './linter';
+export * from "./header";
+export * from "./linter";

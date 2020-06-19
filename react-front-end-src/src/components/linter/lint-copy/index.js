@@ -1,1 +1,1 @@
-export * from './lint-copy.component';
+export * from "./lint-copy.component";

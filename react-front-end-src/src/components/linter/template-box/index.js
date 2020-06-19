@@ -1,1 +1,1 @@
-export * from './template-box.component';
+export * from "./template-box.component";

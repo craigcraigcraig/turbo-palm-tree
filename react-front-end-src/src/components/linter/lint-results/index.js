@@ -1,1 +1,1 @@
-export * from './lint-results.component';
+export * from "./lint-results.component";

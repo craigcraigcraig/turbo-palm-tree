@@ -1,1 +1,1 @@
-export * from './linter.component';
+export * from "./linter.component";
