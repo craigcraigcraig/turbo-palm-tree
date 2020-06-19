@@ -1,12 +1,13 @@
 import React from "react";
-import "./App.css";
-import { TemplateForm } from "./components/TemplateForm";
+// import "./App.css";
+import { Linter, Header } from "./components";
 
 function App() {
   return (
-    <div className="App">
-      <TemplateForm />
-    </div>
+    <>
+      <Header />
+      <Linter />
+    </>
   );
 }
 
